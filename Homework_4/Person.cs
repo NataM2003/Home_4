@@ -12,8 +12,8 @@ namespace Homework_4
 
         public Person()
         {
-            name = "Geralt";
-            birthYear = new DateTime(2000, 12, 12);
+            name = "Cuchma";
+            birthYear = new DateTime(1938, 12, 12);
         }
         public Person(string _Name, int _BirthYear)
         {
